@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.pgb.brewapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="https://phonegap.com/ns/1.0">
-	<name>PhoneGap Build App</name>
+	<name>Test Mobil APK</name>
 	<description>
-		This app brews beer.
+		HTML TO MOBILE
 	</description>
 
-	<author email="seymourbutts@phonegap.com" href="https://phonegap.com">
-	   PhoneGap Team
+	<author email="" href="demirbilek_mt@hotmail.com">
+	   Murat Demirbilek
 	</author>
-
+	<icon src="assets/brand/bootstrap-solid.svg" />
 	
 </widget>
