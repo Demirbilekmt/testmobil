@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.phonegap.example"
+    id          = "com.testmobil.example"
     versionCode = "10"
     version     = "1.0.0" >
 
@@ -13,10 +13,10 @@
       Test Uygulaması
   </description>
 
-  <author href="https://build.phonegap.com" email="support@phonegap.com">
-      Hardeep Shoker
+  <author href="" email="demirbilek_mt@hotmail.com">
+      Murat Demirbilek
   </author>
 
-<icon src="assets/brand/bootstrap-solid.svg">
+	<icon src="assets/brand/bootstrap-solid.svg">
 
 </widget>
